@@ -85,7 +85,7 @@ You really never going to fully understand what's going under the hood
 <p class="font-bold">System for managing your files</p>
 </div>
 
-<img src="images/other/git-branches-merge.png" class="w-3/4 mx-auto my-4"/>
+<img src="/images/other/git-branches-merge.png" class="w-3/4 mx-auto my-4"/>
 
 <!--
   The idea behind git is that it allows you to **track changes** to your project overtime and that is useful for things like **collaborating with others**
@@ -239,9 +239,6 @@ echo 'Hello, World!' | git hash-object --stdin
 8ab686eafeb1f44702738c8b0f24f2567c36da6d
 ```
 
-<!--
-
--->
 
 ---
 
@@ -323,7 +320,7 @@ test.js
 
 </div>
 
-<img v-click src="images/git-objects/git-objects-1.png" class=""/>
+<img v-click src="/images/git-objects/git-objects-1.png" class=""/>
 
 
 <!--
@@ -371,7 +368,7 @@ You just think about commits. I took snapshoot, snapshoot. I want to merge these
 
 # Git Objects
 
-<img src="images/git-objects/git-objects-2.png" class=""/>
+<img src="/images/git-objects/git-objects-2.png" class=""/>
 
 ---
 
@@ -593,7 +590,7 @@ ref: refs/heads/feature
 
 ```
 
-<img v-click src="images/git-objects/git-head.png" class="w-96 mx-auto"/>
+<img v-click src="/images/git-objects/git-head.png" class="w-96 mx-auto"/>
 
 <!--
 What is inside in the => cat .git/refs/heads/master
